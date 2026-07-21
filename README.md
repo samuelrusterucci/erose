@@ -24,7 +24,7 @@
 - stellar magnitudes and their uncertainties
 - an empirical or theoretical isochrone
 
-and can then process surveys such as UNIONS/DES/Euclid... on a standard laptop in less than a day.
+and can then process surveys such as UNIONS, DES or Euclid on a standard laptop in less than a day.
 
 ## Installation
 
