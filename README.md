@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <picture>
     <source
     srcset="./logos/DarkkMode.png"
@@ -13,6 +13,8 @@
     
   <h3 align="center">Enhancing Rapidly Overdensities of Sources with Ease</h3>
 </div>
+
+[![GitHub Downloads](https://img.shields.io/github/downloads/samuelrusterucci/erose/total.svg)](../../releases)
 
 ## Installation
 
