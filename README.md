@@ -26,7 +26,7 @@
 
 and can then process surveys such as UNIONS, DES or Euclid on a standard laptop in less than a day.
 
-A description of the algorithm is provided in [Rusterucci et al. (2026)]()
+A description of the algorithm is provided in [Rusterucci et al. (2026)](https://www.youtube.com/@veritasium/videos)
 
 ## Installation
 
