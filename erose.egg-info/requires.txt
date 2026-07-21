@@ -1,8 +1,0 @@
-numpy
-scipy
-pandas
-matplotlib
-astropy
-pyarrow
-tqdm
-joblib
