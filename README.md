@@ -16,6 +16,10 @@
 
 [![PyPI](https://img.shields.io/pypi/v/erose.svg)](https://pypi.python.org/pypi/erose)
 
+## Overview
+
+$\textsc{erose}$
+
 ## Installation
 
 You can install `erose` from PyPI: 
