@@ -18,7 +18,7 @@
 
 ## Installation
 
-Installing `erose` from PyPI: (the current version is not available there yet)
+You can install `erose` from PyPI: 
 ```bash
 pip install erose
 ```
