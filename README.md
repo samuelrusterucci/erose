@@ -15,7 +15,6 @@
 </div>
 
 [![PyPI](https://img.shields.io/pypi/v/erose.svg)](https://pypi.python.org/pypi/erose)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](../../)
 
 ## Installation
 
