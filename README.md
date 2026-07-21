@@ -26,6 +26,8 @@
 
 and can then process surveys such as UNIONS, DES or Euclid on a standard laptop in less than a day.
 
+A description of the algorithm is provided in [Rusterucci et al. (2026)]()
+
 ## Installation
 
 You can install `erose` from PyPI: 
@@ -33,6 +35,4 @@ You can install `erose` from PyPI:
 pip install erose
 ```
 All required dependencies will be installed automatically.
-
-![how_erose](./logos/how_erose.png)
 
