@@ -14,7 +14,7 @@
   <h3 align="center">Enhancing Rapidly Overdensities of Sources with Ease</h3>
 </div>
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/samuelrusterucci/erose/total.svg)](../../releases)
+[![PyPI](https://img.shields.io/pypi/v/erose.svg)](https://pypi.python.org/pypi/erose)
 
 ## Installation
 
