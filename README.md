@@ -23,4 +23,4 @@ Installing `erose` from PyPI: (the current version is not available there yet)
 pip install erose
 ```
 
-![how_erose]("./logos/how_erose.pdf")
+![how_erose]("./logos/how_erose.png")
