@@ -22,3 +22,5 @@ Installing `erose` from PyPI: (the current version is not available there yet)
 ```bash
 pip install erose
 ```
+
+![how_erose]("./logos/how_erose.pdf")
