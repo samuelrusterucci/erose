@@ -22,6 +22,7 @@ You can install `erose` from PyPI:
 ```bash
 pip install erose
 ```
+All required dependencies will be installed automatically.
 
 ![how_erose](./logos/how_erose.png)
 
