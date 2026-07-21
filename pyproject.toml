@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=59"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "erose"
+version = "0.0.0"
+authors = [
+  { name="Samuel Rusterucci", email="samuel.rusterucci@astro.unistra.fr"},
+]
+description = "Enhancing Rapidly Overdensities of Sources with Ease"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "scipy",
+    "pandas",
+    "matplotlib",
+    "astropy",
+    "pyarrow",
+    "tqdm",
+    "joblib"
+]
+license = "MIT"
+
+[tool.setuptools]
+packages = { find = {} }
