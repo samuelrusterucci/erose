@@ -13,3 +13,10 @@
     
   <h3 align="center">Enhancing Rapidly Overdensities of Sources with Ease</h3>
 </div>
+
+## Installation
+
+Installing `erose` from PyPI: (the current version is not available there yet)
+```bash
+pip install erose
+```
