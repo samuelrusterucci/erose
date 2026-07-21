@@ -18,7 +18,11 @@
 
 ## Overview
 
-`erose` is a Python package that automatically searches for dwarf galaxies in stellar catalogues. It requires minimal inputs and can process surveys such as DES on a current laptop in less than a day.
+`erose` is a Python package that automatically searches for dwarf galaxies in stellar catalogues. It requires minimal inputs:
+
+- star positions
+
+and can process surveys such as DES on a current laptop in less than a day.
 
 ## Installation
 
