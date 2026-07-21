@@ -21,7 +21,7 @@
 `erose` is a Python package that automatically searches for dwarf galaxies in stellar catalogues. It requires minimal inputs, namely:
 
 - stellar positions
-- stellar magnitudes and their uncertainties
+- stellar magnitudes (and their uncertainties)
 - an empirical or theoretical isochrone
 
 and can then process surveys such as UNIONS, DES or Euclid on a standard laptop in less than a day.
