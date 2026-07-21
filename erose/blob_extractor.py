@@ -391,7 +391,7 @@ class BlobExtractor():
         else:
             temp_mag += 5*np.log10(float(self.blob_properties.loc()[blob_id]['blob_dist'])*1000) - 5 
 
-        inner_mask   = (xi**2 + eta**2) < (1.5*r_h)**2
+        inner_mask   = (xi**2 + eta**2) < (r_h)**2
         annulus_mask = ((xi**2 + eta**2) > (inner_annulus)**2
                    ) & ((xi**2 + eta**2) < (outer_annulus)**2)
         
