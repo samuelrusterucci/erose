@@ -38,7 +38,7 @@ All required dependencies will be installed automatically.
 
 ## Citing this work
  
-erose: an algorithm searching for resolved Local Group satellites.
+If you use `erose` please consider citing: 
 
 ```
 @ARTICLE{PhySO_RL_DA,
