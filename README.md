@@ -26,7 +26,7 @@
 
 and can then process surveys such as UNIONS, DES or Euclid on a standard laptop in less than a day.
 
-A detailed description of the algorithm is provided in [Rusterucci et al. (2026)]() and summarised on my [personal page](https://samuellimbo.github.io/samuelrusterucci/erose.html). For usage examples, please refer to the [example notebook]().
+A detailed description of the algorithm is provided in [Rusterucci et al. (2026)]() and summarised on my [personal page](https://samuellimbo.github.io/samuelrusterucci/erose.html). For usage examples, please refer to the [example notebook](https://github.com/samuelrusterucci/erose/blob/main/examples/demo/how_to_use_erose.ipynb).
 
 ## Installation
 
